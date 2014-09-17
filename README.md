@@ -10,3 +10,4 @@ Optional: None, attempted swiping through welcome screens but did not work. Made
 ![dropbox gif](/dropbox.gif "Dropbox prototype")
 
 ![swipe gif](/swipe.gif "Swipe prototype")
+
