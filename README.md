@@ -7,4 +7,4 @@ Hours to complete: 11
 Required: All
 Optional: None, attempted swiping through welcome screens but did not work. Made a separate prototype to test the swipe. 
 
-![Alt text](dropbox.gif
+![Alt text](dropbox.gif"Optional title")
